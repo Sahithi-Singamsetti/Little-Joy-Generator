@@ -1,4 +1,8 @@
 
+[🌷 **Live Demo — Try Little Joy!**](https://little-joy-generator-guvwsfsnrpb3sjpbvappjwn.streamlit.app/)
+
+---
+
 # 🐰 Little Joy
 
 *A tiny corner of the internet for softer days. ♡*
